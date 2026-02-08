@@ -29,7 +29,8 @@ A simple Quora-like platform built to learn RESTful APIs using Node.js, Express,
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/quora-clone.git
-cd quora-clone
+git clone https://github.com/rakesh2OO5/Quora_Clone.git
+cd Quora_Clone
 npm install
 nodemon index.js
+
